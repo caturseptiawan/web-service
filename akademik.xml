@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<akademik>
+<mahasiswa>
+<nim>1401530092</nim>
+<nama>Putri Jayanti Mandasari</nama>
+<alamat>Semarang</alamat>
+<progdi>Teknik Informatika</progdi>
+</mahasiswa><mahasiswa>
+<nim>1401530103</nim>
+<nama>Vio Binawan I</nama>
+<alamat>Boja</alamat>
+<progdi>Teknik Informatika</progdi>
+</mahasiswa><mahasiswa>
+<nim>1401530104</nim>
+<nama>Riva Ayu G</nama>
+<alamat>Pati</alamat>
+<progdi>Teknik Informatika</progdi>
+</mahasiswa>
+</akademik>
